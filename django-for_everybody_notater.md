@@ -40,7 +40,7 @@
 | Begrep | Forklaring |
 | ------ | ---------- |
 | Django | Way to build web applications |
-| DOM | Document Object Model |
+| DOM | Document Object Model, the data representation of the objects that comprise the structure and content of a document on the web |
 | HTML | Hypertext Markup Language |
 | Model.py | Informs how we store data in the database |
 | Request response cycle | Fram og tilbake kommunikasjonen mellom nettleseren og webserveren |
