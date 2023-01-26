@@ -14,7 +14,8 @@
 | Kommandoer | Beskrivelse |
 | ----------- | ----------- |
 | django-admin runserver | Starts the Webserver locally on your computer|
-| python manage.py runserver| Starts the Webserver locally on your computer but takes the settings of your project into account |
+| python manage.py runserver| Starts Webserver locally but uses your projects settings |
+| python manage.py startapp "appname" | Creates a application (with relevant files) inside the project |
 
 
 
